@@ -1,0 +1,21 @@
+[
+  { "DATE_OF_REGISTRATION": "2000", "count_date": 8 },
+  { "DATE_OF_REGISTRATION": "2001", "count_date": 11 },
+  { "DATE_OF_REGISTRATION": "2002", "count_date": 2 },
+  { "DATE_OF_REGISTRATION": "2003", "count_date": 6 },
+  { "DATE_OF_REGISTRATION": "2004", "count_date": 9 },
+  { "DATE_OF_REGISTRATION": "2005", "count_date": 17 },
+  { "DATE_OF_REGISTRATION": "2006", "count_date": 8 },
+  { "DATE_OF_REGISTRATION": "2007", "count_date": 10 },
+  { "DATE_OF_REGISTRATION": "2008", "count_date": 11 },
+  { "DATE_OF_REGISTRATION": "2009", "count_date": 26 },
+  { "DATE_OF_REGISTRATION": "2011", "count_date": 21 },
+  { "DATE_OF_REGISTRATION": "2012", "count_date": 39 },
+  { "DATE_OF_REGISTRATION": "2013", "count_date": 36 },
+  { "DATE_OF_REGISTRATION": "2014", "count_date": 22 },
+  { "DATE_OF_REGISTRATION": "2015", "count_date": 27 },
+  { "DATE_OF_REGISTRATION": "2016", "count_date": 38 },
+  { "DATE_OF_REGISTRATION": "2017", "count_date": 36 },
+  { "DATE_OF_REGISTRATION": "2018", "count_date": 84 },
+  { "DATE_OF_REGISTRATION": "2019", "count_date": 121 }
+]

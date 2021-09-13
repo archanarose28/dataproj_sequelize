@@ -1,0 +1,43 @@
+[
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Agriculture, hunting and related service activities",
+    "count_pba": 2
+  },
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Manufacture of food products and beverages",
+    "count_pba": 1
+  },
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",
+    "count_pba": 1
+  },
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Manufacture of other transport equipment",
+    "count_pba": 1
+  },
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Electricity, gas, steam and hot water supply",
+    "count_pba": 1
+  },
+  { "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Construction", "count_pba": 2 },
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",
+    "count_pba": 2
+  },
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Transport, storage and communications",
+    "count_pba": 4
+  },
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Financial intermediation",
+    "count_pba": 3
+  },
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Computer and related activities",
+    "count_pba": 5
+  },
+  {
+    "PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN": "Other business activities",
+    "count_pba": 5
+  }
+]
